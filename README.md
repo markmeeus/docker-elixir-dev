@@ -2,10 +2,10 @@
 
 This is a Ubuntu 14.04-based Docker to build Elixir apps with Distillery
 
-* Erlang R20
-* Elixir 1.6.1
-* NodeJS 6.9
-* Git 1.9.1
+* Erlang/OTP 22 [erts-10.5.3]
+* Elixir 1.7.4
+* v10.17.0
+* Git 2.17.1
 * Hex
 * Rebar
 
